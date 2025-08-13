@@ -55,14 +55,11 @@ Tabular view showing sales, number of items, average sales, average ratings, and
 
 - Business Impact & Insights:
 Targeted Inventory: Insights into item-level and category-level sales support better stock decisions.
-
 Outlet Strategy: Understands which outlet sizes and locations over- or under-perform, guiding expansion and marketing focus.
-
 Customer Preferences: Fat content and product preference metrics help design more effective promotions and assortments.
-
 Performance Optimization: Tie customer ratings to outlet and item sales to boost quality and customer satisfaction.
-
 Growth Tracking: Easily visualize business growth, spot seasonal patterns, and inform top-level strategy.
 
+6. Screenshots / Demos
 
 
