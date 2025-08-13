@@ -61,5 +61,6 @@ Performance Optimization: Tie customer ratings to outlet and item sales to boost
 Growth Tracking: Easily visualize business growth, spot seasonal patterns, and inform top-level strategy.
 
 6. Screenshots / Demos
+   https://github.com/HetDalsaniya/Blinkit_Dashboard/blob/main/Dashboard_image.png
 
 
